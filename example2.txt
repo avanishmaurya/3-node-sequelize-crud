@@ -1,2 +1,3 @@
 this is example 2.
-this is update 1
+this is update 1.
+this is feature/f2.
